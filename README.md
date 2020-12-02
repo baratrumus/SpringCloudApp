@@ -40,13 +40,15 @@
       <amount>1000</amount>
       <convertedAmount>14.29</convertedAmount>
     </conversion>
-и
+
+    
     <conversion>
-      <from>RUB</from>
-      <to>EUR</to>
-      <amount>1000</amount>
-      <convertedAmount>12.5</convertedAmount>
+          <from>RUB</from>
+          <to>EUR</to>
+          <amount>1000</amount>
+          <convertedAmount>12.5</convertedAmount>
     </conversion>
+    
 
 ##### TO DO:
  
