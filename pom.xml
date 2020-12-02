@@ -23,7 +23,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
+        <camel.version>3.0.0</camel.version>
     </properties>
+
 
     <modules>
         <module>CourseRestService</module>

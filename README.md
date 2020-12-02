@@ -15,11 +15,13 @@
 Веб-сервис-2 – SOAP: принимает на вход документ вида:
 
 <conversionsList>
+
     <conversion>
       <from>RUB</from>
       <to>USD</to>
       <amount>1000</amount>
     </conversion>
+       
 
     <conversion>
       <from>RUB</from>
