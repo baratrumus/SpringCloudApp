@@ -1,0 +1,15 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: zuulserver
+
+zuul:
+  routes:
+    convert:
+      path: /convert/**
+      url: http://localhost:8084/soap_ws
+    course:
+      path: /course/**
+      url: http://localhost:8082
